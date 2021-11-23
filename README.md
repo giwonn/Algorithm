@@ -5,7 +5,7 @@ Baekjoon, Programmers, LeetCode
   
 1. Solve the problem using only the tools provided on the website.
 2. Solve at least one problem everyday consistently.
-3. Do not use Python. Only Javascript or Java are allowed
+3. **Do not use Python. Only Javascript or Java are allowed.**
 
 ## Contents
 1. BaekJoon
