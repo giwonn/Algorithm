@@ -1,0 +1,7 @@
+n = int(input())
+summary = 1
+
+for num in range(n, 0, -1):
+    summary *= num
+
+print(summary)
